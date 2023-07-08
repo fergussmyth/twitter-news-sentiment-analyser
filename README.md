@@ -1,2 +1,7 @@
-# twitter-news-sentiment-analyser
- Python project utilising the Twitter API and sentiment analysis techniques to categorise real-time tweets related to news as positive, negative, or neutral. Gain valuable insights into public sentiment and track news-related sentiment trends. Ideal for market research and social analysis
+# news-sentiment-analyser
+The goal of this project is to provide a tool for analysing the sentiment of news headlines. By scraping headlines from different news sources,i aim to gather a diverse range of news articles for analysis. The sentiment analysis process will classify each headline as positive, negative, or neutral, allowing to draw conclusions about the overall sentiment of the news.
+
+## Features
+Web scraping: Utilise web scraping techniques to extract news headlines from different sources.
+Sentiment analysis: Apply natural language processing techniques to analyse the sentiment of each headline.
+Overall conclusion: Determine the overall sentiment of the news by aggregating the sentiment values of the individual headlines.
